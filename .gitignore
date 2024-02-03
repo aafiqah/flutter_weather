@@ -34,7 +34,7 @@ migrate_working_dir/
 
 # Symbolication related
 app.*.symbols
-
+ca
 # Obfuscation related
 app.*.map.json
 
@@ -43,3 +43,4 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 *.freezed.dart
+*.g.dart
